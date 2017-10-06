@@ -1,0 +1,8 @@
+{
+  "name": "SemEef",
+  "description": "SemEef Engineering website",
+  "repository": "https://github.com/noelenwenede/semeef.git",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
